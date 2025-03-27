@@ -1,0 +1,14 @@
+[
+{
+  "directory": "/Volumes/teaching/NGL9Demos/SDL3NGL/build",
+  "command": "/usr/bin/clang++ -DADDLARGEMODELS -DBOOST_FILESYSTEM_NO_LIB -DBOOST_FILESYSTEM_STATIC_LINK=1 -DGLM_ENABLE_EXPERIMENTAL -DGL_DO_NOT_WARN_IF_MULTI_GL_VERSION_HEADERS_INCLUDED -DGL_SILENCE_DEPRECATION -DOIIO_STATIC_DEFINE=1 -I/Volumes/teaching/NGL9Demos/SDL3NGL/include -I/Users/jmacey/NGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/System/Library/Frameworks -isystem /Users/jmacey/vcpkg/installed/arm64-osx/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/SDL3NGL.dir/src/main.cpp.o -c /Volumes/teaching/NGL9Demos/SDL3NGL/src/main.cpp",
+  "file": "/Volumes/teaching/NGL9Demos/SDL3NGL/src/main.cpp",
+  "output": "CMakeFiles/SDL3NGL.dir/src/main.cpp.o"
+},
+{
+  "directory": "/Volumes/teaching/NGL9Demos/SDL3NGL/build",
+  "command": "/usr/bin/clang++ -DADDLARGEMODELS -DBOOST_FILESYSTEM_NO_LIB -DBOOST_FILESYSTEM_STATIC_LINK=1 -DGLM_ENABLE_EXPERIMENTAL -DGL_DO_NOT_WARN_IF_MULTI_GL_VERSION_HEADERS_INCLUDED -DGL_SILENCE_DEPRECATION -DOIIO_STATIC_DEFINE=1 -I/Volumes/teaching/NGL9Demos/SDL3NGL/include -I/Users/jmacey/NGL/include -F/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk/System/Library/Frameworks -isystem /Users/jmacey/vcpkg/installed/arm64-osx/include -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -o CMakeFiles/SDL3NGL.dir/src/NGLDraw.cpp.o -c /Volumes/teaching/NGL9Demos/SDL3NGL/src/NGLDraw.cpp",
+  "file": "/Volumes/teaching/NGL9Demos/SDL3NGL/src/NGLDraw.cpp",
+  "output": "CMakeFiles/SDL3NGL.dir/src/NGLDraw.cpp.o"
+}
+]

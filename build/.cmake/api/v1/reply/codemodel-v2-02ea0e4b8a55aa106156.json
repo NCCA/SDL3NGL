@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SDL3NGLBuild",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SDL3NGL::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SDL3NGL-Debug-f265ff90979220672cd4.json",
+					"name" : "SDL3NGL",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "SDL3NGLCopyShaders::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SDL3NGLCopyShaders-Debug-12c382e5b4734a216c93.json",
+					"name" : "SDL3NGLCopyShaders",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Volumes/teaching/NGL9Demos/SDL3NGL/build",
+		"source" : "/Volumes/teaching/NGL9Demos/SDL3NGL"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

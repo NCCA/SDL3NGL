@@ -1,0 +1,10 @@
+-------------------------------------------------------------------------------
+[08:18AM] NGL configured with 
+[08:18AM] OpenGL 2.1 Metal - 89.3
+[08:18AM] GLSL version 1.20
+-------------------------------------------------------------------------------
+[08:18AM] creating empty ShaderProgram nglTextShader
+[08:18AM] just attached nglTextVertex to ngl::ShaderLib
+[08:18AM] just attached nglTextFragment to ngl::ShaderLib
+[08:18AM] Compiling Shader nglTextVertex
+[08:18AM] [ERROR] :- Shader compile failed or had warnings 

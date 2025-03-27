@@ -1,0 +1,1889 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.28.1/CMakeSystem.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/scripts/buildsystems/vcpkg.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/Platform/Darwin-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.28.1/CMakeCCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "build/CMakeFiles/3.28.1/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/Platform/Darwin.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/Platform/UnixPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/Compiler/AppleClang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/Compiler/GNU.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/Platform/Apple-AppleClang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/Platform/Apple-Clang-C.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/Platform/Apple-Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/Compiler/AppleClang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/Compiler/Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/Platform/Apple-AppleClang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/Platform/Apple-Clang-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/Platform/Apple-Clang.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/NGL/NGLConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/glm/glmConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/glm/glmConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/glm/glmConfig-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/glm/glmConfig-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/fmt/fmt-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/fmt/fmt-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/fmt/fmt-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/fmt/fmt-targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/fmt/fmt-targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/openimageio/OpenImageIOConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/openimageio/OpenImageIOConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/freetype/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/freetype/freetype-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/freetype/freetype-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/freetype/freetype-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/freetype/freetype-targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/freetype/freetype-targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/zlib/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindZLIB.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindBZip2.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CheckSymbolExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakePushCheckState.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/png/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPNG.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/zlib/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindZLIB.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/png/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPNG.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/zlib/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindZLIB.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/OpenColorIO/OpenColorIOConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/OpenColorIO/OpenColorIOConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/expat/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/expat/expat-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/expat/expat-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/expat/expat.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/expat/expat-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/expat/expat-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/expat/expat-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/expat/expat-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/imath/ImathConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/imath/ImathConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/imath/ImathTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/imath/ImathTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/imath/ImathTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/pystring/pystring-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/pystring/pystring-config-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/pystring/pystring-config-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/yaml-cpp/yaml-cpp-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/yaml-cpp/yaml-cpp-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/yaml-cpp/yaml-cpp-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/yaml-cpp/yaml-cpp-targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/yaml-cpp/yaml-cpp-targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/minizip-ng/minizip-ng-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/minizip-ng/minizip-ng-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindBZip2.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CheckSymbolExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakePushCheckState.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/liblzma/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindLibLZMA.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/zstd/zstdConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/zstd/zstdConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/zstd/zstdTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/zstd/zstdTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/zstd/zstdTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/minizip-ng/minizip-ng.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/minizip-ng/minizip-ng-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/minizip-ng/minizip-ng-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/minizip-ng/minizip-ng.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/minizip-ng/minizip-ng-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/minizip-ng/minizip-ng-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/expat/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/Findexpat.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPkgConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/imath/ImathConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/imath/ImathConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/imath/ImathTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/pystring/pystring-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/yaml-cpp/yaml-cpp-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/yaml-cpp/yaml-cpp-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/yaml-cpp/yaml-cpp-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/zlib/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindZLIB.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/minizip-ng/minizip-ng-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/minizip-ng/minizip-ng-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/minizip-ng/minizip-ng.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/OpenColorIO/OpenColorIOTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/OpenColorIO/OpenColorIOTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/OpenColorIO/OpenColorIOTargets-release.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/imath/ImathConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/imath/ImathConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/imath/ImathTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/openexr/OpenEXRConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/openexr/OpenEXRConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/imath/ImathConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/imath/ImathConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/imath/ImathTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/libdeflate/libdeflate-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/libdeflate/libdeflate-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/libdeflate/libdeflate-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/libdeflate/libdeflate-targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/libdeflate/libdeflate-targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/openexr/OpenEXRTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/openexr/OpenEXRTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/openexr/OpenEXRTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/tiff/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindTIFF.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/tiff/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/liblzma/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindLibLZMA.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/jpeg/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindJPEG.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/zlib/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindZLIB.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/OpenColorIO/OpenColorIOConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/OpenColorIO/OpenColorIOConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/OpenColorIO/OpenColorIOTargets.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/jpeg/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindJPEG.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/openimageio/OpenImageIOTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/openimageio/OpenImageIOTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/openimageio/OpenImageIOTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/gl3w/gl3wConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/gl3w/gl3wConfig-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/gl3w/gl3wConfig-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/openexr/OpenEXRConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/openexr/OpenEXRConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/openexr/OpenEXRTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindBoost.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost/BoostConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost/BoostConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_headers/boost_headers-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_headers/boost_headers-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_headers/boost_headers-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_filesystem/boost_filesystem-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_filesystem/boost_filesystem-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_assert/boost_assert-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_assert/boost_assert-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_config/boost_config-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_config/boost_config-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_config/boost_config-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_assert/boost_assert-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_container_hash/boost_container_hash-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_container_hash/boost_container_hash-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_describe/boost_describe-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_describe/boost_describe-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_mp11/boost_mp11-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_mp11/boost_mp11-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_mp11/boost_mp11-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_describe/boost_describe-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_container_hash/boost_container_hash-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_detail/boost_detail-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_detail/boost_detail-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_core/boost_core-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_core/boost_core-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_static_assert/boost_static_assert-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_static_assert/boost_static_assert-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_static_assert/boost_static_assert-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_throw_exception/boost_throw_exception-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_throw_exception/boost_throw_exception-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_throw_exception/boost_throw_exception-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_core/boost_core-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_preprocessor/boost_preprocessor-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_preprocessor/boost_preprocessor-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_preprocessor/boost_preprocessor-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_type_traits/boost_type_traits-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_type_traits/boost_type_traits-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_type_traits/boost_type_traits-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_detail/boost_detail-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_io/boost_io-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_io/boost_io-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_io/boost_io-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_iterator/boost_iterator-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_iterator/boost_iterator-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_concept_check/boost_concept_check-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_concept_check/boost_concept_check-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_concept_check/boost_concept_check-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_function_types/boost_function_types-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_function_types/boost_function_types-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_mpl/boost_mpl-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_mpl/boost_mpl-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_predef/boost_predef-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_predef/boost_predef-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_predef/boost_predef-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_utility/boost_utility-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_utility/boost_utility-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_utility/boost_utility-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_mpl/boost_mpl-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_function_types/boost_function_types-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_fusion/boost_fusion-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_fusion/boost_fusion-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_tuple/boost_tuple-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_tuple/boost_tuple-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_tuple/boost_tuple-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_typeof/boost_typeof-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_typeof/boost_typeof-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_typeof/boost_typeof-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_functional/boost_functional-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_functional/boost_functional-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_function/boost_function-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_function/boost_function-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_bind/boost_bind-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_bind/boost_bind-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_bind/boost_bind-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_function/boost_function-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_functional/boost_functional-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_fusion/boost_fusion-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_optional/boost_optional-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_optional/boost_optional-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_optional/boost_optional-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_smart_ptr/boost_smart_ptr-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_smart_ptr/boost_smart_ptr-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_smart_ptr/boost_smart_ptr-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_iterator/boost_iterator-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_system/boost_system-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_system/boost_system-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_variant2/boost_variant2-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_variant2/boost_variant2-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_variant2/boost_variant2-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_winapi/boost_winapi-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_winapi/boost_winapi-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_winapi/boost_winapi-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_system/boost_system-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_system/boost_system-targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_system/boost_system-targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_scope/boost_scope-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_scope/boost_scope-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_scope/boost_scope-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_atomic/boost_atomic-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_atomic/boost_atomic-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_align/boost_align-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_align/boost_align-config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_align/boost_align-targets.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CheckIncludeFile.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CheckCSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_atomic/boost_atomic-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_atomic/boost_atomic-targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_atomic/boost_atomic-targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_filesystem/boost_filesystem-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_filesystem/boost_filesystem-targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/boost_filesystem/boost_filesystem-targets-release.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindOpenMP.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakeParseImplicitLinkInfo.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/freetype/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/freetype/freetype-config-version.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/freetype/freetype-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/freetype/freetype-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/zlib/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindZLIB.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindBZip2.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CheckSymbolExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/CMakePushCheckState.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/png/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPNG.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/zlib/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindZLIB.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/rapidjson/RapidJSONConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/rapidjson/RapidJSONConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/sdl3/SDL3ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/sdl3/SDL3Config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "/opt/homebrew/Cellar/cmake/3.28.1/share/cmake/Modules/FeatureSummary.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/sdl3/SDL3headersTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/sdl3/SDL3staticTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/sdl3/SDL3staticTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "/Users/jmacey/vcpkg/installed/arm64-osx/share/sdl3/SDL3staticTargets-release.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "/Volumes/teaching/NGL9Demos/SDL3NGL/build",
+		"source" : "/Volumes/teaching/NGL9Demos/SDL3NGL"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 0
+	}
+}
